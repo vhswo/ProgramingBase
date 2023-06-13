@@ -1,0 +1,38 @@
+﻿빌드 시작: 2022-05-27 오후 5:40:21
+로깅의 세부 정보 표시가 Normal(으)로 설정되었습니다.     1>2 노드의 "C:\Users\82103\Documents\study\DX9_Study\DX9_Study.vcxproj" 프로젝트(Build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Debug\DX9_Study.tlog\unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt DX9_Study.cpp
+         DX9_Study.cpp
+     1>C:\Users\82103\Documents\study\DX9_Study\DX9_Study.cpp(498,114): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>C:\Users\82103\Documents\study\DX9_Study\DX9_Study.cpp(512,19): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>C:\Users\82103\Documents\study\DX9_Study\DX9_Study.cpp(513,22): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>C:\Users\82103\Documents\study\DX9_Study\DX9_Study.cpp(514,20): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>C:\Users\82103\Documents\study\DX9_Study\DX9_Study.cpp(515,21): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+       ResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\82103\Documents\study\DX9_Study\Debug\DX9_Study.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\82103\Documents\study\DX9_Study\Debug\DX9_Study.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\82103\Documents\study\DX9_Study\Debug\DX9_Study.lib" /MACHINE:X86 Debug\DX9_Study.res
+         Debug\DIB.obj
+         Debug\DX9_Study.obj
+         DX9_Study.vcxproj -> C:\Users\82103\Documents\study\DX9_Study\Debug\DX9_Study.exe
+       FinalizeBuildStatus:
+         "Debug\DX9_Study.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\DX9_Study.tlog\DX9_Study.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\82103\Documents\study\DX9_Study\DX9_Study.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+       "C:\Users\82103\Documents\study\DX9_Study\DX9_Study.vcxproj"(Build 대상)(1) ->
+       (ClCompile 대상) -> 
+         C:\Users\82103\Documents\study\DX9_Study\DX9_Study.cpp(498,114): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         C:\Users\82103\Documents\study\DX9_Study\DX9_Study.cpp(512,19): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         C:\Users\82103\Documents\study\DX9_Study\DX9_Study.cpp(513,22): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         C:\Users\82103\Documents\study\DX9_Study\DX9_Study.cpp(514,20): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         C:\Users\82103\Documents\study\DX9_Study\DX9_Study.cpp(515,21): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+
+    경고 5개
+    오류 0개
+
+경과 시간: 00:00:01.06

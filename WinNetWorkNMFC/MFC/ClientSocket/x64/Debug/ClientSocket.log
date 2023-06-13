@@ -1,0 +1,27 @@
+﻿빌드 시작: 2022-06-08 오후 3:30:12
+로깅의 세부 정보 표시가 Normal(으)로 설정되었습니다.     1>2 노드의 "C:\Users\82103\Desktop\ClientSocket\ClientSocket.vcxproj" 프로젝트(Build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "x64\Debug\ClientSocket.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"pch.h" /Fp"x64\Debug\ClientSocket.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc142.pdb" /Gd /TP /FC /errorReport:prompt ClientSocketDlg.cpp
+         ClientSocketDlg.cpp
+       ResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\82103\Desktop\ClientSocket\x64\Debug\ClientSocket.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\Include\Manifest\dpiaware.manifest" /DEBUG:FASTLINK /PDB:"C:\Users\82103\Desktop\ClientSocket\x64\Debug\ClientSocket.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\82103\Desktop\ClientSocket\x64\Debug\ClientSocket.lib" /MACHINE:X64 x64\Debug\ClientSocket.res
+         x64\Debug\CClient.obj
+         x64\Debug\ClientSocket.obj
+         x64\Debug\ClientSocketDlg.obj
+         x64\Debug\pch.obj
+         ClientSocket.vcxproj -> C:\Users\82103\Desktop\ClientSocket\x64\Debug\ClientSocket.exe
+       FinalizeBuildStatus:
+         "x64\Debug\ClientSocket.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "x64\Debug\ClientSocket.tlog\ClientSocket.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\82103\Desktop\ClientSocket\ClientSocket.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.95

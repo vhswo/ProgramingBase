@@ -1,0 +1,34 @@
+﻿빌드 시작: 2022-06-08 오후 3:30:29
+로깅의 세부 정보 표시가 Normal(으)로 설정되었습니다.     1>2 노드의 "C:\Users\82103\Desktop\ClientSocket\ClientSocket.vcxproj" 프로젝트(Build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Release\ClientSocket.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86\CL.exe /c /Zi /nologo /W3 /WX- /diagnostics:column /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"pch.h" /Fp"Release\ClientSocket.pch" /Fo"Release\\" /Fd"Release\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt CClient.cpp ClientSocket.cpp ClientSocketDlg.cpp
+         CClient.cpp
+         ClientSocket.cpp
+         ClientSocketDlg.cpp
+       ResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\82103\Desktop\ClientSocket\Release\ClientSocket.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\Include\Manifest\dpiaware.manifest" /DEBUG:FULL /PDB:"C:\Users\82103\Desktop\ClientSocket\Release\ClientSocket.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG:incremental /LTCGOUT:"Release\ClientSocket.iobj" /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\82103\Desktop\ClientSocket\Release\ClientSocket.lib" /MACHINE:X86 /SAFESEH Release\ClientSocket.res
+         Release\CClient.obj
+         Release\ClientSocket.obj
+         Release\ClientSocketDlg.obj
+         Release\pch.obj
+         코드를 생성하고 있습니다.
+         13 of 218 functions ( 6.0%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         코드를 생성했습니다.
+         ClientSocket.vcxproj -> C:\Users\82103\Desktop\ClientSocket\Release\ClientSocket.exe
+       FinalizeBuildStatus:
+         "Release\ClientSocket.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Release\ClientSocket.tlog\ClientSocket.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\82103\Desktop\ClientSocket\ClientSocket.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:01.71

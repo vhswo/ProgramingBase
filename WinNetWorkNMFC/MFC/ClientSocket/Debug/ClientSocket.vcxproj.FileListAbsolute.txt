@@ -1,0 +1,2 @@
+C:\Users\82103\Documents\study\ClientSocket\Debug\ClientSocket.exe
+C:\Users\82103\Desktop\ClientSocket\Debug\ClientSocket.exe
